@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ochieng Jeffrey Odhiambo
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning JavaScript/ReactJs/TailwindCss/C++
+- 🌱 I’m profecient in JavaScript/ReactJs/TailwindCss/C++
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me odhiambo149@gmail.com
 
