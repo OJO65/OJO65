@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ochieng Jeffrey Odhiambo
 - 👀 I’m a FullStack web developer
-- 🌱 I’m profecient in JavaScript/ReactJs/TailwindCss/C++/WordPress/Angular/PHP/MySQL
+- 🌱 I’m learning a lil bit of everything
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me odhiambo149@gmail.com
 
