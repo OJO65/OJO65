@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Ochieng Jeffrey Odhiambo
-- 👀 I’m a FullStack web developer
-- 🌱 I’m learning a lil bit of everything
-- 💞️ I’m looking to collaborate on web design projects
-- 📫 How to reach me odhiambo149@gmail.com
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey Odhiambo
 ========================================================================================================================================
 
