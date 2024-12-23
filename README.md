@@ -7,8 +7,10 @@ Frontend Developer
 I'm just learning a lil bit of everything
 
 * 🌍  I'm based in Kenya
+* 🖥️  See my portfolio at [MyPortfolio](http://odhiambo.netlify.app/)
 * ✉️  You can contact me at [odhiambo149@gmail.com](mailto:odhiambo149@gmail.com)
 * 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on Web development projects
 
 ### Skills
 
